@@ -1,2 +1,2 @@
 # rockpaperscissor
-Play rock paper sissor with chenwei
+Play rock paper scissor with chenwei
